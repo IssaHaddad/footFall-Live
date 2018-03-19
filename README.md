@@ -1,3 +1,9 @@
+Internet Programming – Io T Application			      				     Spring 2016
+•	Developed Io T application using Photon particle, Cordova, Onsen UI, CouchDB, and Agular JS. This was used along with motion sensors to deliberately measure footfall of multiple stores, to help guide users about which place is least crowded to visit. We used JavaScript, HTML, CSS, PHP, and CouchDB.
+
+
+
+
 Onsen UI Quick Startup Guide
 ====
 
